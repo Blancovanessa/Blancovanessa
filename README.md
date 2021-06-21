@@ -2,7 +2,7 @@
               
                                                           
      
-   ## Hello Word !
+   ## Hello Wordl !
    
 ##  👋 Hi, I’m Vanessa Blanco
 
