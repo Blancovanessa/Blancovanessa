@@ -18,7 +18,7 @@
       ## Contact :bust_in_silhouette:
   
       - Email vanessacpblanco33@gmail.com
-      - Discord https://discord.com/channels/@me/768281253614452766
+      - Discord https://discord.com/channels/@me
       - Linkedin https://www.linkedin.com/in/vanessa-blanco-58192b20a/
 
 
