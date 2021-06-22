@@ -14,13 +14,15 @@
 - 👀 I'm interested in working in the programming field.
 
  - 🌱 I'm currently learning CSS3 using SASS, and JavaScript, I'm just getting started,lol
-
-
-     ### I hope to learn to program and become an expert! :relaxed:
-     
-      ## Contact :bust_in_silhouette:
+ 
+  
       
        - Email vanessacpblanco33@gmail.com
        - Discord https://discord.com/channels/@me/768281253614452766
        - Linkedin https://www.linkedin.com/in/vanessa-blanco-58192b20a/
+
+
+     ### I hope to learn to program and become an expert! :relaxed:
+     
+     
 
