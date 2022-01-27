@@ -8,8 +8,8 @@
 
    ## about :relaxed:
    
-   Hi, my name is Vanessa. I discovered programming a year and a half ago I fell in love, 
-   and today I have been studying more and more with the objective of becoming an expert.
+  Hi, my name is Vanessa. I discovered programming in 2019 and fell in love, 
+  and today I have been studying more and more with the goal of becoming an expert.
 
 - 👀 I'm interested in working in the programming field.
 
